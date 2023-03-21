@@ -1,6 +1,6 @@
 /* css variable;Help to reuse of variables through the code */
 :root{
-    --primary: #cc388e;
+    --primary: #4c19a6;
     --business: #3472cf;
     --personal: var(--primary);
     --grey: rgb(107, 99, 99);
